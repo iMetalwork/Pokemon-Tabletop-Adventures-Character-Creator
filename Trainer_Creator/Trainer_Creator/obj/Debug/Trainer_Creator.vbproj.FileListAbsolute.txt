@@ -1,0 +1,14 @@
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\bin\Debug\Trainer_Creator.exe.config
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\bin\Debug\Trainer_Creator.exe
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\bin\Debug\Trainer_Creator.pdb
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\bin\Debug\Trainer_Creator.xml
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.Form1.resources
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.Resources.resources
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.vbproj.GenerateResource.Cache
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.vbproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.exe
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.xml
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.pdb
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\bin\Debug\Trainer_Creator.exe.CodeAnalysisLog.xml
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\bin\Debug\Trainer_Creator.exe.lastcodeanalysissucceeded
+C:\Users\Jeremy\source\repos\Trainer_Creator\Trainer_Creator\obj\Debug\Trainer_Creator.vbprojAssemblyReference.cache
